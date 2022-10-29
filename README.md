@@ -1,1 +1,1 @@
-./Yakor.html
+#./Yakor.html
